@@ -1,0 +1,9 @@
+def area(l,b):
+      if (l == b):
+            print("Yes")
+      else:
+            print("No")
+            
+l = int(input())
+b = int(input())
+area(l,b)
