@@ -1,0 +1,7 @@
+def Details (name,age):
+  x = name+" "+age
+  return x
+name=input()
+age=input()
+function=Details(name,age)
+print(f"{function}")
